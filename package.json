@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tomochain/trc721.git"
+    "url": "git+https://github.com/tao-network/trc721.git"
   },
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/tomochain/trc721/issues"
+    "url": "https://github.com/tao-network/trc721/issues"
   },
-  "homepage": "https://github.com/tomochain/trc721#readme",
+  "homepage": "https://github.com/tao-network/trc721#readme",
   "dependencies": {
     "config": "^3.1.0",
     "ganache-cli": "^6.4.2",

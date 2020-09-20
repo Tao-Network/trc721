@@ -9,7 +9,7 @@ module.exports = {
             provider: TestRPC.provider(),
             network_id: '*'
         },
-        tomo: {
+        tao: {
             provider: function () {
                 let w = new HDWalletProvider(config.get('truffle.privateKey'), config.get('blockchain.rpc'))
                 let nonceTracker = new NonceTrackerSubprovider()

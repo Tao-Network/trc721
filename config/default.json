@@ -1,8 +1,8 @@
 {
     "blockchain": {
-        "rpc": "https://testnet.tomochain.com",
-        "ws": "wss://testnet.tomochain.com/ws",
-        "networkId": 89
+        "rpc": "https://rpc.testnet.tao.network",
+        "ws": "wss://ws.testnet.tao.network",
+        "networkId": 559
     },
     "truffle": {
         "privateKey": ""
